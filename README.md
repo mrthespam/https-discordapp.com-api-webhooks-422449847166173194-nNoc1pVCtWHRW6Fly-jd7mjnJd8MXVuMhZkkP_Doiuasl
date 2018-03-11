@@ -1,1 +1,5 @@
-# https-discordapp.com-api-webhooks-422449847166173194-nNoc1pVCtWHRW6Fly-jd7mjnJd8MXVuMhZkkP_Doiuasl
+Если вы желаете получить прописку, вам нужно оставить сообщение в этой теме по форме:
+
+Ник:
+Фракция:
+Ранг:
